@@ -57,6 +57,28 @@
 .fon{
     z-index: -1;
 }
+.img-txt{
+    position: absolute;
+    bottom: 15%;
+    margin-left: 80px;
+    padding: 10px;
+    border-radius: 5px;
+    color: #000;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 60px;
+    transform: rotate(45deg);
+}
+.img-txt2{
+    position: absolute;
+    bottom: 15%;
+    margin-left: 70%;
+    padding: 10px;
+    border-radius: 5px;
+    color: #000;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 60px;
+    transform: rotate(-45deg);
+}
 .unity{
     display: flex;
     justify-content: space-between;
