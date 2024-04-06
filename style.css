@@ -57,6 +57,10 @@
 .fon{
     z-index: -1;
 }
+.imgs1{
+    width: 500px;
+    height: 150px;
+}
 .img-txt{
     position: absolute;
     bottom: 15%;
